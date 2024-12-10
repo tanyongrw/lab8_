@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: รุจยา วิทยาประภารกร
+# STUDENT ID: 650610855
